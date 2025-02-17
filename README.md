@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chinwe Chukwulobe and I'm a Software Engineer and also a UI/UX Designer, I live in Germany</h2>
+<h2 align="left">Hi 👋! My name is Chinwe Chukwulobe <br> I'm a Software Engineer and also a UI/UX Designer, I live in Germany</h2>
 
 ###
 
